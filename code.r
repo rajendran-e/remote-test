@@ -1,7 +1,7 @@
 install.packages("gitcreds")
 library(gitcreds)
 gitcreds_get()
-#creating conflict
+?gitcredits
 gitcreds_set()
 2
 
